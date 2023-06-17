@@ -1,0 +1,5 @@
+  /* Establece el tamaño del div del mapa */
+  #map {
+    height: 500px;
+    width: 100%;
+  }
